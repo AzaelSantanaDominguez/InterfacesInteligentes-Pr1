@@ -27,7 +27,7 @@ El funcionamiento es el siguiente:
 
 <img width="1504" height="715" alt="EJ1" src="https://github.com/user-attachments/assets/d5dd9521-2fab-441e-82c9-609aa6e9c776" />
 
-[Ver script de Ejercicio1](Scripts/ChanceColor.cs)
+[Ver script de Ejercicio1](Scripts/ChangeColor.cs)
 
 ## Ejercicio 2 - Operaciones con vectores
 
