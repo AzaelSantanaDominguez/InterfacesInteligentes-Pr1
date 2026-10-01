@@ -27,6 +27,7 @@ El funcionamiento es el siguiente:
 
 <img width="1504" height="715" alt="EJ1" src="https://github.com/user-attachments/assets/d5dd9521-2fab-441e-82c9-609aa6e9c776" />
 
+[Ver script de Ejercicio1](Scripts/ChanceColor.cs)
 
 ## Ejercicio 2 - Operaciones con vectores
 
@@ -59,6 +60,7 @@ Los resultados se muestran tanto en la **consola de Unity** como en el **Inspect
 
 <img width="1917" height="1002" alt="EJ2" src="https://github.com/user-attachments/assets/23436b74-4b0f-41bc-94dc-1a98b4b6b60f" />
 
+[Ver script de Ejercicio2](Scripts/ShowValues.cs)
 
 ## Ejercicio 3 - Posición de la esfera
 
@@ -85,6 +87,7 @@ La posición se representa mediante un `Vector3`, formado por las coordenadas:
 
 <img width="1873" height="929" alt="EJ3" src="https://github.com/user-attachments/assets/4cedd14e-b7a8-4a32-9669-c3e7cae6e757" />
 
+[Ver script de Ejercicio3](Scripts/ShowTransform.cs)
 
 ## Ejercicio 4 - Distancia entre objetos
 
@@ -125,3 +128,4 @@ El resultado se muestra en la consola de Unity.
 
 <img width="1911" height="950" alt="EJ4" src="https://github.com/user-attachments/assets/d2acc45b-0be2-461c-a6a3-45d2546dfea5" />
 
+[Ver script de Ejercicio4](Scripts/CalculateDistance.cs)
