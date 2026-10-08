@@ -258,7 +258,7 @@ Si el movimiento se realiza utilizando el sistema de referencia mundial, el movi
 
 <img width="1918" height="1036" alt="EJ8" src="https://github.com/user-attachments/assets/b3d539c1-cdd2-426c-ba8b-e8002fa02c5f" />
 
-[Ver script de Ejercicio8](Scripts/Ej5.cs)
+[Ver script de Ejercicio8](Scripts/Ej8.cs)
 
 ## Ejercicio 9/10 - Movimiento del cubo y la esfera mediante teclado
 
@@ -298,7 +298,7 @@ Ambos objetos tienen una variable pública `speed`, que permite modificar la vel
 
 <img width="1918" height="1029" alt="EJ9" src="https://github.com/user-attachments/assets/c52334c5-d85d-4b1a-91a9-75679e0b85cd" />
 
-[Ver script de Ejercicio9-10](Scripts/Ej5.cs)
+[Ver script de Ejercicio9-10](Scripts/CubeMovement.cs)
 
 ## Ejercicio 11 - Movimiento del cubo hacia la esfera
 
@@ -341,7 +341,7 @@ goal = GameObject.FindGameObjectWithTag("Meta");
 
 <img width="1918" height="1029" alt="EJ11" src="https://github.com/user-attachments/assets/4f0ada28-6555-43c1-87c4-80a66b9cc2b9" />
 
-[Ver script de Ejercicio11](Scripts/Ej5.cs)
+[Ver script de Ejercicio11](Scripts/CubeMovement2.cs)
 
 ## Ejercicio 12 - Movimiento del cubo orientado hacia la esfera
 
@@ -375,7 +375,7 @@ Además, se realizan pruebas modificando la posición de la esfera mediante las 
 
 <img width="1918" height="1031" alt="EJ12" src="https://github.com/user-attachments/assets/c1e90762-d0e1-429c-babd-47f6b1bf6ce9" />
 
-[Ver script de Ejercicio12](Scripts/Ej5.cs)
+[Ver script de Ejercicio12](Scripts/CubeMovement3.cs)
 
 ## Ejercicio 13 - Rotación y movimiento hacia adelante
 
@@ -409,7 +409,7 @@ La velocidad de movimiento y la velocidad de rotación se pueden modificar desde
 
 <img width="1918" height="1028" alt="EJ13" src="https://github.com/user-attachments/assets/4dcfce40-aa42-4905-a903-48850d1ed9cf" />
 
-[Ver script de Ejercicio13](Scripts/Ej5.cs)
+[Ver script de Ejercicio13](Scripts/Ej13.cs)
 
 
 
