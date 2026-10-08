@@ -155,7 +155,7 @@ initialPosition = transform.position;
 
 <img width="1918" height="1013" alt="EJ5" src="https://github.com/user-attachments/assets/9930853f-3243-4aef-8ed9-d12698e7efc3" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio5](Scripts/Ej5.cs)
 
 ## Ejercicio 6 - Detección de teclas y velocidad
 
@@ -176,7 +176,7 @@ Input.GetAxis("Vertical")
 
 <img width="1912" height="1026" alt="EJ6" src="https://github.com/user-attachments/assets/e52662d2-403d-4ff3-946d-2ef7309c6111" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio6](Scripts/Ej6.cs)
 
 ## Ejercicio 7 - Mapeo de la tecla H a la función de disparo
 
@@ -258,7 +258,7 @@ Si el movimiento se realiza utilizando el sistema de referencia mundial, el movi
 
 <img width="1918" height="1036" alt="EJ8" src="https://github.com/user-attachments/assets/b3d539c1-cdd2-426c-ba8b-e8002fa02c5f" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio8](Scripts/Ej5.cs)
 
 ## Ejercicio 9/10 - Movimiento del cubo y la esfera mediante teclado
 
@@ -298,7 +298,7 @@ Ambos objetos tienen una variable pública `speed`, que permite modificar la vel
 
 <img width="1918" height="1029" alt="EJ9" src="https://github.com/user-attachments/assets/c52334c5-d85d-4b1a-91a9-75679e0b85cd" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio9-10](Scripts/Ej5.cs)
 
 ## Ejercicio 11 - Movimiento del cubo hacia la esfera
 
@@ -341,7 +341,7 @@ goal = GameObject.FindGameObjectWithTag("Meta");
 
 <img width="1918" height="1029" alt="EJ11" src="https://github.com/user-attachments/assets/4f0ada28-6555-43c1-87c4-80a66b9cc2b9" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio11](Scripts/Ej5.cs)
 
 ## Ejercicio 12 - Movimiento del cubo orientado hacia la esfera
 
@@ -375,7 +375,7 @@ Además, se realizan pruebas modificando la posición de la esfera mediante las 
 
 <img width="1918" height="1031" alt="EJ12" src="https://github.com/user-attachments/assets/c1e90762-d0e1-429c-babd-47f6b1bf6ce9" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio12](Scripts/Ej5.cs)
 
 ## Ejercicio 13 - Rotación y movimiento hacia adelante
 
@@ -409,7 +409,7 @@ La velocidad de movimiento y la velocidad de rotación se pueden modificar desde
 
 <img width="1918" height="1028" alt="EJ13" src="https://github.com/user-attachments/assets/4dcfce40-aa42-4905-a903-48850d1ed9cf" />
 
-[Ver script de Ejercicio4](Scripts/Ej5.cs)
+[Ver script de Ejercicio13](Scripts/Ej5.cs)
 
 
 
