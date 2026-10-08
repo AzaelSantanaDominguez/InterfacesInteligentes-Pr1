@@ -329,14 +329,6 @@ La velocidad del movimiento se controla mediante la variable pública `speed`.
 - Movimiento hacia un objetivo
 - Variables públicas en el Inspector
 
-### Funcionamiento
-
-En `Start()` se busca la esfera mediante su Tag:
-
-```csharp
-goal = GameObject.FindGameObjectWithTag("Meta");
-```
-
 ### Prueba de ejecución
 
 <img width="1918" height="1029" alt="EJ11" src="https://github.com/user-attachments/assets/4f0ada28-6555-43c1-87c4-80a66b9cc2b9" />
